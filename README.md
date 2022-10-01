@@ -8,3 +8,5 @@ twitter: <a href="https://www.flaticon.com/free-icons/twitter-social-badge" titl
 youtube: <a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a>
 facebook: <a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Freepik - Flaticon</a>
 tiktok: <a href="https://www.flaticon.com/free-icons/tiktok" title="tiktok icons">Tiktok icons created by Freepik - Flaticon</a>
+spotify: <a href="https://www.flaticon.com/free-icons/spotify" title="spotify icons">Spotify icons created by Fathema Khanom - Flaticon</a>
+apple music: <a href="https://www.flaticon.com/free-icons/mac" title="mac icons">Mac icons created by Hight Quality Icons - Flaticon</a>
