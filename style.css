@@ -366,10 +366,15 @@ a {
 
 .nav2 {
     display: flex;
-    gap: 48px;
+    gap: 25px;
     font-size: 18px;
 }
 
+.copy {
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+}
 .copy,
 .nav2 a {
     color: #fff;
@@ -387,5 +392,5 @@ a {
 .logo2 img {
     width: 60px;
     height: 60px;
-    box-shadow: #f07764;
+    margin-left: -40px;
 }
